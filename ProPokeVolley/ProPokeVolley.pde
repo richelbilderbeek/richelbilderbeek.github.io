@@ -75,8 +75,6 @@ void setup()
   basket_right_2 = loadImage("GhastlyRight2.png");
   basket_right_3 = loadImage("GhastlyRight3.png");
   ball = loadImage("PokeBallRed.png");
-    String title = "ProPokeVolley " + score_left + " - " + score_right;  
-    frame.setTitle(title);
 }
 
 void draw()
